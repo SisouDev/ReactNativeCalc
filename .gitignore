@@ -43,4 +43,4 @@ babel.config.js
 
 app.json
 
-.vscode
+.vscode/
