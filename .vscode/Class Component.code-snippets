@@ -1,0 +1,21 @@
+{
+	"Class Component": {
+	"scope": "javascript",
+	"prefix": "compclass",
+	"body": [
+		"import React, {Component} from 'react';",
+		"import { Text } from 'react-native';",
+		"",
+		"export default class $1 extends Component{",
+		"	render(){",
+		"		return(",
+		"			<>",
+		"				<Text> Name </Text>",
+		"			</>",
+		"		);",
+		"	}",
+		"}"
+	],
+	"description": "Log output to console"
+	}
+}
