@@ -33,3 +33,13 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+#expo
+*.expo
+metro.config.js
+package-lock.json
+
+babel.config.js
+
+app.json
+
